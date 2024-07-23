@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="active">#295B9D</color>
+    <color name="active_10">#1A295B9D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="system_black">#333333</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="color_bg_blue">#295b9d</color>
+    <color name="color_light_grey">#F5F5F5</color>
+    <color name="color_dark_grey">#9E9E9E</color>
+<!--    <color name="color_bg_green">#3b992b</color>-->
+<!--    <color name="color_bg_brown">#8e8755</color>-->
+<!--    <color name="color_bg_orange">#D39A35</color>-->
+<!--    <color name="color_bg_red">#EC2024</color>-->
+<!--    <color name="color_bg_dark">#0c1d24</color>-->
+
+    <color name="color_car_white">#FFFFFF</color>
+    <color name="color_car_black">#000000</color>
+    <color name="color_car_silver">#858585</color>
+    <color name="color_car_red">#A50404</color>
+    <color name="color_car_orange">#B16406</color>
+    <color name="color_car_blue">#1244DC</color>
+    <color name="color_car_brown">#8C6F3C</color>
+    <color name="color_car_grey">#706D68</color>
+    <color name="bgSeekbar">#9E9E9E</color>
+    <color name="text_red">#F01616</color>
+    <color name="text_blue">#1F9FFC</color>
+
+    <color name="color_sign_no">#CD000000</color>
+
+    <color name="stube_top">#0D70BA</color>
+    <color name="stube_bottom">#039FFF</color>
+
+    <color name="color_stroke_group_menu">#E0E0E0</color>
+    <color name="color_view_inner_shadow">#14000000</color>
+    <color name="system_bg_white">#FFFFFF</color>
+    <color name="system_bg_header">#FFFFFF</color>
+    <color name="system_bg_light_grey">#F5F5F5</color>
+    <color name="system_border_light_grey">#E0E0E0</color>
+    <color name="system_bg_grey">#9E9E9E</color>
+    <color name="system_text_grey">#9E9E9E</color>
+    <color name="system_black_text">#333333</color>
+    <color name="system_blue_text">#295B9D</color>
+    <color name="system_green">#16A33D</color>
+    <color name="system_red">#EA1719</color>
+    <color name="system_blue_logo">#295B9D</color>
+    <color name="blue_start_color">#5D98E7</color>
+    <color name="blur_center_color">#4B81C8</color>
+    <color name="blue_end_color">#467EC7</color>
+    <color name="selected_item_color">#D9D9D9</color>
+    <color name="category_line_color">#D9D9D9</color>
+    <color name="selected_category_color">#18437A</color>
+    <color name="view_line">#F5F5F5</color>
+    <color name="system_text_select_wallpaper">#2172AD</color>
+    <color name="color_text_save_quickapp">#2C5D9B</color>
+    <color name="bg_icon_app">#33FFFFFF</color>
+
+
+    <color name="white_20">#33FFFFFF</color>
+    <color name="text_lunar_calender">#80FFFFFF</color>
+</resources>

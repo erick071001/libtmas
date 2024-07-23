@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Safeview Signature</string>
+    <string name="please_set_id">Please set ID</string>
+    <string name="left_front_hint">left Front</string>
+    <string name="left_rear_hint">left Rear</string>
+    <string name="right_front_hint">right Front</string>
+    <string name="right_rear_hint">right Rear</string>
+
+    <string name="left_front_error">Lỗi ID phía trước trái</string>
+    <string name="left_rear_error">Lỗi ID phía sau trái</string>
+    <string name="right_front_error">Lỗi ID phía trước phải</string>
+    <string name="right_rear_error">Lỗi ID phía sau phải</string>
+    <string name="set_id_success">set successfully</string>
+    <string name="query">OK</string>
+    <string name="cancel">quit</string>
+
+    <string name="save_setting">Lưu Cài Đặt</string>
+    <string name="agree">Đồng ý</string>
+    <string name="uninstall">Không thể gỡ cài đặt ứng dụng hệ thống.</string>
+    <string name="uninstallApp">Gỡ cài đặt</string>
+    <string name="infoApp">Thông tin\nứng dụng</string>
+    <string name="title_theme">Cài đặt giao diện</string>
+    <string name="title_theme_and_color">Giao diện và hình nền</string>
+    <string name="title_custom_widget">Tuỳ chọn trang chủ&#160;&#160;&#160;&#160;</string>
+    <string name="title_setting_advance">Cài đặt nâng cao&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="tilte_license_setup">Cài đặt biển số xe&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="title_model_car">Lựa chọn mẫu xe&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="title_setup_tpms_all_caps">Cảm biến tích hợp</string>
+    <string name="title_setup_gps">Cấu hình GPS</string>
+    <string name="title_setup_speed">Tùy chỉnh tốc độ&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="title_setup_tpms">Áp suất lốp&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="lib_wallpaper_safeview">Thư viện hình nền Safe view</string>
+
+    <string name="capability_value_unknown">UNKNOWN</string>
+    <string name="capability_value_not_supported">NOT_SUPPORTED</string>
+    <string name="capability_value_supported">SUPPORTED</string>
+    <string name="capability_value_location_disabled">LOCATION_DISABLED</string>
+
+    <string name="mapbox_access_token" translatable="false"
+        tools:ignore="UnusedResources">pk.eyJ1IjoidGllbnR1eWVuMDciLCJhIjoiY2xwc2tseTg1MDN3ODJxcGFvYzR5a2RmcSJ9.HlZr8s-VqRuth6Nt9yZfQA</string>
+</resources>
